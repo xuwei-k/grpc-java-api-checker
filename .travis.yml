@@ -8,3 +8,7 @@ cache:
 
 notifications:
   email: false
+
+jdk:
+- oraclejdk8
+- oraclejdk9
